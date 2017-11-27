@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cinetix</string>
+    <string name="activity_review">Detail Pesanan</string>
+
+    <!-- Labels -->
+    <string name="label_movie_title">Judul Film</string>
+    <string name="label_class">Kelas</string>
+    <string name="label_include">Include Popcorn &amp; Minuman?</string>
+    <string name="label_qty">Jumlah</string>
+    <string name="label_review_info">Tiket anda berhasil dipesan, silakan lakukan pembayaran dengan nominal dibawah ini:</string>
+
+    <!-- Buttons -->
+    <string name="btn_book_ticket">Book Ticket</string>
+    <string name="btn_share">Share ke Teman</string>
+</resources>
